@@ -2,6 +2,7 @@
 
 This project is a Python-based interactive quiz game inspired by Kahoot,
 It allows users to answer multiple-choice questions in a fun and engaging way. 
+I am providing you the text file which contains questions and ipynb file so that you can understand code in better manner.
 
 Key features include:
 Randomized Questions: Questions are randomly selected from a pre-defined text file containing a question bank.
