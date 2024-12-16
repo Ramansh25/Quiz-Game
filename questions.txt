@@ -1,0 +1,10 @@
+What is the capital of France?|Paris|London|Berlin|Rome|0
+What is 2 + 2?|3|4|5|6|1
+Who wrote 'Hamlet'?|Shakespeare|Dickens|Hemingway|Austen|0
+What is the boiling point of water?|90C|100C|110C|120C|1
+What is the square root of 16?|3|4|5|6|1
+Which planet is known as the Red Planet?|Earth|Mars|Jupiter|Venus|1
+What is the largest mammal?|Elephant|Whale|Shark|Dinosaur|1
+What is the speed of light?|300 km/s|300,000 km/s|150,000 km/s|450,000 km/s|1
+Which gas do plants primarily use in photosynthesis?|Oxygen|Carbon Dioxide|Nitrogen|Hydrogen|1
+What is the powerhouse of the cell?|Nucleus|Mitochondria|Ribosome|Golgi Apparatus|1
